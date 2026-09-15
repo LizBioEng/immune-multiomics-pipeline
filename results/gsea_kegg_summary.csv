@@ -1,0 +1,2 @@
+Name,Term,ES,NES,NOM p-val,FDR q-val,FWER p-val,Tag %,Gene %,Lead_genes
+prerank,T cell receptor signaling pathway,-0.3542002311485819,-0.7971668556420203,0.6486486486486487,0.6486486486486487,0.6486486486486487,2/5,30.00%,CTLA4;PDCD1

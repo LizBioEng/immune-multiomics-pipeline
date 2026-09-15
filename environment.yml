@@ -14,3 +14,7 @@ dependencies:
   - biopython
   - jupyterlab
   - requests
+  - pip
+  - pip:
+      - gseapy
+      - mygene
